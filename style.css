@@ -1,5 +1,9 @@
+body {
+  min-height: 20000px;
+}
+
 .jumbotron {
-  /*padding: 2rem 1rem; scc unit ppu*/
+  /*padding: 2rem 1rem; scc unit ppu */
   padding-top: 3rem;
   background-color: #e2edff;
 }
