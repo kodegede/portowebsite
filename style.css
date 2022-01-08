@@ -4,10 +4,14 @@
 
 .jumbotron {
   /*padding: 2rem 1rem; scc unit ppu */
-  padding-top: 3rem;
+  padding-top: 6rem;
   background-color: #e2edff;
 }
 
 #projects {
   background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
 }
